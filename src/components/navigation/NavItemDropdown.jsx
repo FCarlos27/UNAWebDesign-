@@ -1,22 +1,27 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef } from 'react';
 
 export function NavItemDropdown({ item }) {
   const [isOpen, setIsOpen] = useState(false);
-  const dropdownRef = useRef(null);
+  const timeoutRef = useRef(null);
 
-  // Cierra el menú al hacer clic fuera del componente
-  useEffect(() => {
-    function handleClickOutside(event) {
-      if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
-        setIsOpen(false);
-      }
-    }
-    document.addEventListener('mousedown', handleClickOutside);
-    return () => document.removeEventListener('mousedown', handleClickOutside);
-  }, []);
+  const handleMouseEnter = () => {
+    // Si hay un cierre pendiente, lo cancelamos de inmediato
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    setIsOpen(true);
+  };
+
+  const handleMouseLeave = () => {
+    // Cierre inmediato sin demoras al retirar el cursor
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    setIsOpen(false);
+  };
 
   return (
-    <div className="relative" ref={dropdownRef}>
+    <div
+      className="relative inline-block"
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
+    >
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="flex items-center gap-1 text-sm font-bold uppercase tracking-wider text-white hover:text-blue-200 transition-colors py-2 border-b-2 border-transparent hover:border-white focus:outline-none"
@@ -34,13 +39,14 @@ export function NavItemDropdown({ item }) {
         </svg>
       </button>
 
+      {/* Menú Desplegable */}
       {isOpen && (
-        <div className="absolute left-0 mt-2 w-56 rounded-xl bg-white shadow-lg ring-1 ring-black/5 border border-slate-100 py-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
+        <div className="absolute left-0 mt-0 w-64 bg-white shadow-xl border-t-4 border-blue-900 border-x border-b border-slate-200 py-2 z-50">
           {item.children.map((child, index) => (
             <a
               key={index}
               href={child.href}
-              className="block px-4 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-blue-700 transition-colors"
+              className="block px-4 py-2.5 text-xs font-bold uppercase tracking-wider text-slate-700 hover:bg-slate-100 hover:text-blue-950 transition-colors border-b border-slate-100 last:border-none"
             >
               {child.title}
             </a>
