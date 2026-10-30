@@ -9,11 +9,11 @@ export function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 bg-[#1E407C] border-b border-slate-200 shadow-sm">
-      {/* 2. BARRA PRINCIPAL */}
+      {/* Barra principal */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-30">
           
-          {/* Logo estilo marca universitaria */}
+          {/* Identidad del centro local */}
           <Link to="/" className="flex items-center gap-3">
             <img
               src={unaLogo}
@@ -30,7 +30,7 @@ export function Navbar() {
             </div>
           </Link>
 
-          {/* Navegación Desktop con estilo de pestaña / borde */}
+          {/* Menú de escritorio */}
           <nav className="hidden md:flex items-center gap-6">
             {navigationConfig.map((item, index) =>
               item.children ? (
@@ -47,7 +47,7 @@ export function Navbar() {
             )}
           </nav>
 
-          {/* Botón Menú Móvil */}
+          {/* Botón del menú móvil */}
           <div className="md:hidden">
             <button
               aria-label="Abrir o cerrar menú" aria-expanded={mobileMenuOpen} onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
@@ -66,7 +66,7 @@ export function Navbar() {
         </div>
       </div>
 
-      {/* Menú desplegable Móvil */}
+      {/* Opciones del menú móvil */}
       {mobileMenuOpen && (
         <div className="md:hidden bg-blue-950 text-white px-4 pt-4 pb-6 space-y-4 border-t border-blue-900">
           {navigationConfig.map((item, index) => (

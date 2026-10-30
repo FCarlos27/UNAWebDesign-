@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+// Misión, visión y objetivos.
 export function PilaresInstitucionales() {
   const pillars = [
     {
@@ -43,7 +44,7 @@ export function PilaresInstitucionales() {
               key={index}
               className="bg-white border border-slate-200 shadow-sm hover:shadow-xl transition-all flex flex-col justify-between overflow-hidden group"
             >
-              {/* Imagen superior estilo Penn State */}
+              {/* Imagen del pilar institucional */}
               <div className="h-48 overflow-hidden relative">
                 <img
                   src={item.image}
@@ -67,7 +68,7 @@ export function PilaresInstitucionales() {
                   </p>
                 </div>
 
-                {/* Enlace de lectura completo */}
+                {/* Enlace al contenido completo */}
                 <div className="mt-6 pt-4 border-t border-slate-100">
                   <Link
                     to={item.href}
@@ -87,6 +88,7 @@ export function PilaresInstitucionales() {
   );
 }
 
+// Asesorías, materiales y calendario.
 export function Tarjetas() {
   const modules = [
     {
@@ -129,7 +131,7 @@ export function Tarjetas() {
               item.reverse ? "md:flex-row-reverse" : ""
             }`}
           >
-            {/* Texto y Botón */}
+            {/* Descripción y enlace al servicio */}
             <div className="flex-1 space-y-4">
               <span className="text-xs font-bold uppercase tracking-widest text-blue-900 bg-blue-50 px-2.5 py-1 inline-block">
                 {item.subtitle}

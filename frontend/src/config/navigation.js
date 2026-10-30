@@ -1,3 +1,4 @@
+// Opciones y destinos del menú principal.
 export const navigationConfig = [
   {
     title: 'Inicio',

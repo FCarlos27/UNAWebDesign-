@@ -6,13 +6,13 @@ export function NavItemDropdown({ item }) {
   const timeoutRef = useRef(null);
 
   const handleMouseEnter = () => {
-    // Si hay un cierre pendiente, lo cancelamos de inmediato
+    // Cancela el cierre pendiente.
     if (timeoutRef.current) clearTimeout(timeoutRef.current);
     setIsOpen(true);
   };
 
   const handleMouseLeave = () => {
-    // Cierre inmediato sin demoras al retirar el cursor
+    // Cierra el menú al salir con el cursor.
     if (timeoutRef.current) clearTimeout(timeoutRef.current);
     setIsOpen(false);
   };
@@ -40,7 +40,7 @@ export function NavItemDropdown({ item }) {
         </svg>
       </button>
 
-      {/* Menú Desplegable */}
+      {/* Opciones del submenú */}
       {isOpen && (
         <div className="absolute left-0 mt-0 w-64 bg-white shadow-xl border-t-4 border-blue-900 border-x border-b border-slate-200 py-2 z-50">
           {item.children.map((child, index) => (

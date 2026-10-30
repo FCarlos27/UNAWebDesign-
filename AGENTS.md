@@ -9,13 +9,22 @@ Sitio del Centro Local Sucre de la Universidad Nacional Abierta. Frontend React 
 - Implementar únicamente el alcance solicitado. No reemplazar el diseño general ni introducir un backend sin necesidad acordada.
 - No inventar autoridades, fechas, aranceles, horarios, contactos, acreditaciones ni oferta académica. Solicitar o verificar fuentes oficiales para ampliar contenido.
 
+## Simplicidad y comentarios
+- Priorizar soluciones simples, legibles y fáciles de modificar por una persona que está aprendiendo el proyecto.
+- Evitar sobreingeniería: no añadir abstracciones, dependencias, capas o componentes genéricos sin una necesidad concreta del módulo actual.
+- Usar nombres claros, funciones pequeñas cuando ayuden y código directo. Evitar expresiones demasiado compactas que dificulten la lectura.
+- Añadir comentarios cortos en español y sin emojis para identificar las secciones de la página y los bloques de lógica importantes.
+- Comentar por sección o intención, no cada línea ni operaciones evidentes. Mantener los comentarios actualizados con el código.
+- Usar comentarios JSX dentro de la interfaz, comentarios JavaScript en la lógica y comentarios CSS en los estilos. No insertar comentarios en JSON.
+- Mantener el diseño y comportamiento existentes al documentar; limitar cualquier ajuste necesario a lo que permita que el código siga funcionando.
+
 ## Estructura y navegación
 - src/main.jsx contiene BrowserRouter; src/App.jsx contiene las rutas y el marco compartido de navegación y pie de página.
 - src/config/navigation.js define las opciones del menú.
-- src/About.jsx implementa Sobre Nosotros usando información general ya existente en el repositorio. Su contenido requiere revisión institucional antes de publicar.
+- src/pages/About.jsx implementa Sobre Nosotros usando información general ya existente en el repositorio. Su contenido requiere revisión institucional antes de publicar.
 - src/RoutePages.jsx contiene la vista de secciones pendientes y la página no encontrada.
 - Usar Link/NavLink de React Router para navegación interna. Mantener enlaces externos como elementos a.
-- Inicio y Sobre Nosotros son las páginas con contenido propio. Las demás rutas muestran Próximamente; esto no equivale a módulos implementados.
+- Inicio, Sobre Nosotros y Directorio y Autoridades son las páginas con contenido propio. Las demás rutas muestran Próximamente; esto no equivale a módulos implementados.
 - QuickLinks permanece desactivado y conserva enlaces provisionales. No activarlo sin sustituir sus destinos.
 - Al añadir un módulo, sustituir su ruta pendiente, mantener accesibilidad y comprobar navegación móvil, atrás/adelante y acceso directo.
 
@@ -32,3 +41,15 @@ Sitio del Centro Local Sucre de la Universidad Nacional Abierta. Frontend React 
 - Preservar los cambios ajenos. No usar reset --hard, clean ni force push sin autorización explícita.
 - Hacer commits pequeños con mensajes descriptivos cuando se solicite registrar una versión. No inventar nombre o correo del autor.
 - No subir cambios, publicar ni desplegar sin autorización.
+
+## Directorio y Autoridades
+- Ruta: /la-una/directorio. Vista: frontend/src/pages/Directory.jsx.
+- Datos: frontend/src/data/directory.json. Los 66 registros corresponden a las primeras páginas de los cuatro PDF oficiales del lapso 2026-2 (18 Cumaná, 17 Carúpano, 15 Cariaco y 16 Güiria). No representan 66 personas distintas.
+- Cada sede conserva sourceUrl y los registros preservan campos sourceName, sourceArea, sourceSubjects y sourceContact para trazabilidad. Los campos visibles normalizan espacios y nombres de áreas; los códigos conservan ceros iniciales.
+- No fusionar asignaturas de docentes compartidos entre sedes: las asignaciones difieren.
+- Cumaná: las celdas combinadas de Frank Flores y Orlando Betancourt se verificaron visualmente y sus contactos están separados.
+- El teléfono publicado de Maria T. Gracìa queda como texto pendiente de confirmar; no corregirlo por suposición.
+- La segunda página de los PDF se consulta por enlace al anexo de Nivel Central. No convertir sus posibles errores en contactos confirmados.
+- Los horarios están pendientes de confirmación. La imagen facilitada de Cumaná dice 2023-II aunque su URL esté bajo 2026/10. No publicarla como vigente y no asignar horarios a las otras sedes.
+- La coordinación de Angela Maiz Bruzual procede de https://unasucre.com.ve/coordinacion/; la página no indica fecha de actualización del cargo.
+- Ejecutar desde frontend: node --test tests/directory.test.mjs, npm run build y npm run lint.

@@ -11,7 +11,7 @@ function AnimatedCounter({ value, suffix = "", duration = 1000 }) {
 
     let animationFrame;
 
-    // Animacion de carga de los numeros
+    // Inicia el contador cuando entra en pantalla.
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (!entry.isIntersecting || hasAnimated.current) return;
@@ -59,6 +59,7 @@ function AnimatedCounter({ value, suffix = "", duration = 1000 }) {
   );
 }
 
+// Datos de las estadísticas de inicio.
 const stats = [
   {
     label: "Educación Flexible",
@@ -80,6 +81,7 @@ const stats = [
   },
 ];
 
+// Franja de estadísticas institucionales.
 export function Stats() {
   return (
     <section className="bg-blue-950 text-white border-y border-blue-900">

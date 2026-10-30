@@ -1,3 +1,4 @@
+// Accesos frecuentes; sección todavía desactivada en Inicio.
 export function QuickLinks() {
   const links = [
     {

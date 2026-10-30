@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 export function Hero() {
   return (
     <section className="relative bg-slate-900 text-white overflow-hidden">
-      {/* Imagen de fondo con gradiente oscuro tipo Penn State */}
+      {/* Fondo de la presentación */}
       <div 
         className="absolute inset-0 bg-cover bg-center opacity-60 filter contrast-125"
         style={{ backgroundImage: `url('https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1600&auto=format&fit=crop')` }}
@@ -16,6 +16,7 @@ export function Hero() {
             Lapso Académico Activo
           </div>
 
+          {/* Título y bienvenida */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white leading-tight">
             Educación Abierta <br />
             <span className="text-blue-300">Sin Fronteras.</span>
@@ -25,6 +26,7 @@ export function Hero() {
             Bienvenidos al Centro Local Sucre. Formación universitaria pública, modular y flexible adaptada a tu ritmo en Cumaná, Carúpano, Cariaco y Güiria.
           </p>
 
+          {/* Enlaces a trámites y carreras */}
           <div className="flex flex-wrap gap-4 pt-4">
             <Link
               to="/tramites/documentos"

@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "cumana",
+    "name": "Cumaná",
+    "period": "2026-2",
+    "sourceUrl": "https://unasucre.com.ve/wp-content/uploads/2026/06/CARGA-ACADEMICA-2026-2-CUMANA.pdf",
+    "advisors": [
+      {
+        "id": "cumana-1",
+        "name": "Veguis Ramirez",
+        "area": "Contaduría",
+        "referenceLocation": "",
+        "subjects": [
+          "606",
+          "618",
+          "632",
+          "633",
+          "634",
+          "636",
+          "637",
+          "639",
+          "642",
+          "649",
+          "650",
+          "655",
+          "661",
+          "663",
+          "665",
+          "666",
+          "669",
+          "673",
+          "691",
+          "692",
+          "697"
+        ],
+        "emails": [
+          "contadsucreuna@gmail.com"
+        ],
+        "phones": [
+          "04248522279"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "VEGUISRAMIREZ",
+        "sourceArea": "CONTADURÍA",
+        "sourceSubjects": "606-618-632-633-634-636-637-639-642-649-\n650-655-661-663-665-666-669-673-691-692-\n697",
+        "sourceContact": "contadsucreuna@gmail.com\n04248522279"
+      },
+      {
+        "id": "cumana-2",
+        "name": "Mirla Núñez",
+        "area": "Administración",
+        "referenceLocation": "",
+        "subjects": [
+          "601",
+          "602",
+          "603",
+          "605",
+          "607",
+          "608",
+          "613",
+          "614",
+          "617",
+          "631",
+          "671",
+          "672",
+          "681",
+          "696",
+          "699"
+        ],
+        "emails": [
+          "admoneuna@gmail.com"
+        ],
+        "phones": [
+          "0424-8838489",
+          "0426-2865699"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MIRLANÚÑEZ",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "601-602-603-605-607-608-613- 614-617-631-\n671-672-681-696-699",
+        "sourceContact": "admoneuna@gmail.com\nCel.0424-8838489\n0426-2865699"
+      },
+      {
+        "id": "cumana-3",
+        "name": "Johan Blanco",
+        "area": "Administración",
+        "referenceLocation": "",
+        "subjects": [
+          "604",
+          "641",
+          "638",
+          "651",
+          "653"
+        ],
+        "emails": [
+          "johanjoseblancomartinez@gmail.com"
+        ],
+        "phones": [
+          "0412-6950379"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANBLANCO",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "604-641-638-651-653",
+        "sourceContact": "johanjoseblancomartinez@gmail.com\n0412-6950379"
+      },
+      {
+        "id": "cumana-4",
+        "name": "Elizabeth Nuez",
+        "area": "Inglés",
+        "referenceLocation": "",
+        "subjects": [
+          "108"
+        ],
+        "emails": [
+          "Elinuez01@gmail.com"
+        ],
+        "phones": [
+          "0424-8435067"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ELIZABETHNUEZ",
+        "sourceArea": "INGLES-",
+        "sourceSubjects": "108",
+        "sourceContact": "Elinuez01@gmail.com\n0424-8435067"
+      },
+      {
+        "id": "cumana-5",
+        "name": "Luis Pinto",
+        "area": "Ingeniería de Sistemas",
+        "referenceLocation": "",
+        "subjects": [
+          "116",
+          "305",
+          "306",
+          "310",
+          "311",
+          "315",
+          "316",
+          "321",
+          "323",
+          "324",
+          "327",
+          "330",
+          "332",
+          "333",
+          "335",
+          "336",
+          "337",
+          "338",
+          "339",
+          "341",
+          "342",
+          "347",
+          "348",
+          "349",
+          "350",
+          "358",
+          "359",
+          "370",
+          "371",
+          "372",
+          "373",
+          "374",
+          "375",
+          "440",
+          "625"
+        ],
+        "emails": [
+          "llpgalanton@gmail.com"
+        ],
+        "phones": [
+          "04248335375"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "LUISPINTO",
+        "sourceArea": "ING.ENSISTEMAS",
+        "sourceSubjects": "116-305-306-310-311--315-316-321-323-324-\n327-330-332-333-335-336-337-338-339-341-\n342-347-348-349-350-358-359-370-371-372-\n373-374-375-440-625",
+        "sourceContact": "llpgalanton@gmail.com\n04248335375"
+      },
+      {
+        "id": "cumana-6",
+        "name": "Samer Kutaini",
+        "area": "Ingeniería Industrial",
+        "referenceLocation": "",
+        "subjects": [
+          "200",
+          "203",
+          "207",
+          "208",
+          "209",
+          "231",
+          "232",
+          "234",
+          "237",
+          "238",
+          "240",
+          "252",
+          "255",
+          "259",
+          "300",
+          "326"
+        ],
+        "emails": [
+          "sk.ingindustrialuna@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "SAMERKUTAINI",
+        "sourceArea": "ING.INDUSTRIAL",
+        "sourceSubjects": "200-203-207-208-209-231-232-234-237-238-\n240-252-255-259-300-326",
+        "sourceContact": "sk.ingindustrialuna@gmail.com"
+      },
+      {
+        "id": "cumana-7",
+        "name": "Ramon Vallejo",
+        "area": "Ingeniería Industrial",
+        "referenceLocation": "",
+        "subjects": [
+          "201",
+          "202",
+          "205",
+          "206",
+          "216",
+          "222",
+          "223",
+          "225",
+          "325",
+          "235",
+          "236",
+          "241",
+          "251",
+          "257",
+          "258"
+        ],
+        "emails": [
+          "ramon.vallejolicet@gmail.com"
+        ],
+        "phones": [
+          "04121284450"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "RAMONVALLEJO",
+        "sourceArea": "ING.INDUSTRIAL",
+        "sourceSubjects": "201-202-205-206-216-222-223-225/325-235-\n236-241-251-257-258",
+        "sourceContact": "ramon.vallejolicet@gmail.com\n04121284450"
+      },
+      {
+        "id": "cumana-8",
+        "name": "Frank Flores",
+        "area": "Matemática / Educación",
+        "referenceLocation": "",
+        "subjects": [
+          "106",
+          "117",
+          "175",
+          "179",
+          "479",
+          "547",
+          "551",
+          "552",
+          "555",
+          "575",
+          "577",
+          "579",
+          "580",
+          "734"
+        ],
+        "emails": [
+          "Frankflores.2510@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "FRANKFLORES",
+        "sourceArea": "MATEMATICA EDUCACIÓN",
+        "sourceSubjects": "106-117-175-179-479-547-551-552-555-575-\n577-579-580-734",
+        "sourceContact": "Frankflores.2510@gmail.com"
+      },
+      {
+        "id": "cumana-9",
+        "name": "Orlando Betancourt",
+        "area": "Matemática / Educación",
+        "referenceLocation": "",
+        "subjects": [
+          "178",
+          "107",
+          "414",
+          "408",
+          "420",
+          "476",
+          "532",
+          "542",
+          "545"
+        ],
+        "emails": [
+          "orlandobetancourt.pnfa@gmail.com"
+        ],
+        "phones": [
+          "0412-6990887"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ORLANDO BETANCOURT",
+        "sourceArea": "MATEMATICA EDUCACIÓN",
+        "sourceSubjects": "178-107-414-408-420-476-532-542-545",
+        "sourceContact": "orlandobetancourt.pnfa@gmail.com\n0412-6990887"
+      },
+      {
+        "id": "cumana-10",
+        "name": "Christian Gutierrez",
+        "area": "Matemáticas",
+        "referenceLocation": "",
+        "subjects": [
+          "176",
+          "177",
+          "733",
+          "734",
+          "735",
+          "737",
+          "738",
+          "739",
+          "745",
+          "746",
+          "747",
+          "748",
+          "749",
+          "750",
+          "751",
+          "752",
+          "753",
+          "754",
+          "757",
+          "755",
+          "756",
+          "758",
+          "759",
+          "760",
+          "761",
+          "762",
+          "764",
+          "765",
+          "766",
+          "767",
+          "768",
+          "772",
+          "776",
+          "783"
+        ],
+        "emails": [
+          "cjgr2029@gmail.com"
+        ],
+        "phones": [
+          "0424-8041191"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "CHRISTIAN GUTIERREZ",
+        "sourceArea": "MATEMATICAS",
+        "sourceSubjects": "176-177-733-734-735-737-738-739-745-746-\n747-748-749-750-751-752-753-754-757-754-\n/755-756-757-758-759-760-761-762-764-765-\n766-767-768-772-776-783-",
+        "sourceContact": "cjgr2029@gmail.com\nCel:0424-8041191"
+      },
+      {
+        "id": "cumana-11",
+        "name": "Rosa Gonzalez",
+        "area": "Educación Preescolar",
+        "referenceLocation": "",
+        "subjects": [
+          "050",
+          "051",
+          "052",
+          "053",
+          "054",
+          "055",
+          "057",
+          "059",
+          "056",
+          "058",
+          "060",
+          "061",
+          "062",
+          "063",
+          "064",
+          "560",
+          "564"
+        ],
+        "emails": [
+          "Regonzalezg0208@gmail.com"
+        ],
+        "phones": [
+          "04128629612"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ROSAGONZALEZ",
+        "sourceArea": "EDUCPREESCOLAR",
+        "sourceSubjects": "050-051-052-053-054-055-057-059-056-058-\n060-061-062-063-064-560-564-",
+        "sourceContact": "Regonzalezg0208@gmail.com\n04128629612"
+      },
+      {
+        "id": "cumana-12",
+        "name": "Gainet Ruiz",
+        "area": "Educación Preescolar / Extensión Universitaria",
+        "referenceLocation": "",
+        "subjects": [
+          "559",
+          "562",
+          "810",
+          "811",
+          "812",
+          "813",
+          "814",
+          "816"
+        ],
+        "emails": [
+          "gainet.ruiz@hotmail.com"
+        ],
+        "phones": [
+          "0414-8150912"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "GAINETRUIZ",
+        "sourceArea": "EDUC.PREESCOLAR EXTENSIÒNUNIVERS.",
+        "sourceSubjects": "559-562-810-811-812-813-814-816",
+        "sourceContact": "gainet.ruiz@hotmail.com\n0414-8150912"
+      },
+      {
+        "id": "cumana-13",
+        "name": "Denisse Salazar",
+        "area": "Educación, Dificultades de Aprendizaje",
+        "referenceLocation": "",
+        "subjects": [
+          "512",
+          "520",
+          "581",
+          "583",
+          "584",
+          "587",
+          "588",
+          "591",
+          "592",
+          "594",
+          "596",
+          "530",
+          "405",
+          "475"
+        ],
+        "emails": [
+          "denisse_salazar59@hotmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "DENISSE SALAZAR",
+        "sourceArea": "EDUC.DIFDE APRENDIZAJE",
+        "sourceSubjects": "512-520-581-583-584-587-588-591-592-594-\n596-530-405-475",
+        "sourceContact": "denisse_salazar59@hotmail.com"
+      },
+      {
+        "id": "cumana-14",
+        "name": "Maryorys Carvajal",
+        "area": "Educación, Dificultades de Aprendizaje",
+        "referenceLocation": "",
+        "subjects": [
+          "516",
+          "570",
+          "571",
+          "582",
+          "585",
+          "586",
+          "589",
+          "590",
+          "593",
+          "595",
+          "597",
+          "497",
+          "534"
+        ],
+        "emails": [
+          "ccymayo@gmail.com"
+        ],
+        "phones": [
+          "0414-7511007"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MARYORYS CARVAJAL",
+        "sourceArea": "EDUC.DIF. APRENDIZAJE",
+        "sourceSubjects": "516-570-571-582--585-586-589-590-593-595-\n597-497-534",
+        "sourceContact": "ccymayo@gmail.com\ncel:0414-7511007"
+      },
+      {
+        "id": "cumana-15",
+        "name": "Johann Perez",
+        "area": "Educación Integral",
+        "referenceLocation": "",
+        "subjects": [
+          "000"
+        ],
+        "emails": [
+          "johannpb.0828@gmail.com"
+        ],
+        "phones": [
+          "04148401455"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANNPEREZ",
+        "sourceArea": "EDUCACIÓN INTEGRAL",
+        "sourceSubjects": "000",
+        "sourceContact": "johannpb.0828@gmail.com\n04148401455"
+      },
+      {
+        "id": "cumana-16",
+        "name": "Jhon Edward",
+        "area": "Área de Lengua",
+        "referenceLocation": "",
+        "subjects": [
+          "115",
+          "120",
+          "122",
+          "411",
+          "478",
+          "481",
+          "454",
+          "457",
+          "490",
+          "491",
+          "498",
+          "536",
+          "524"
+        ],
+        "emails": [
+          "mailovxavier@gmail.com"
+        ],
+        "phones": [
+          "0412-9116129"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JHONEDWARD",
+        "sourceArea": "ÁREADELENGUA",
+        "sourceSubjects": "115-120-122-411-478-481-454-457-490-491-\n498--536-524",
+        "sourceContact": "mailovxavier@gmail.com\n0412-9116129"
+      },
+      {
+        "id": "cumana-17",
+        "name": "Nordelis Alcoba",
+        "area": "Educación Integral",
+        "referenceLocation": "",
+        "subjects": [
+          "121",
+          "428",
+          "433",
+          "434",
+          "472",
+          "473",
+          "480",
+          "486",
+          "487",
+          "492",
+          "493",
+          "423",
+          "465",
+          "427",
+          "451",
+          "485",
+          "489",
+          "517",
+          "431",
+          "437",
+          "444",
+          "416",
+          "469",
+          "494",
+          "488",
+          "410",
+          "468",
+          "498",
+          "484"
+        ],
+        "emails": [
+          "nordelisunasucre@hotmail.com"
+        ],
+        "phones": [
+          "0424-8572833"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "NORDELIS ALCOBA",
+        "sourceArea": "EDUCACIÓN INTEGRAL",
+        "sourceSubjects": "121--428-433-434-472-473-480-486-487-492-\n493-423-465- 427-451-485-489-517--431-437-\n444-416-469-494-488-410-468-498-484",
+        "sourceContact": "nordelisunasucre@hotmail.com\n0424-8572833"
+      },
+      {
+        "id": "cumana-18",
+        "name": "Mercedes Mago",
+        "area": "Investigación / Educación",
+        "referenceLocation": "",
+        "subjects": [
+          "011",
+          "118",
+          "119",
+          "126",
+          "412",
+          "421",
+          "471",
+          "477",
+          "483",
+          "576",
+          "578",
+          "474",
+          "495"
+        ],
+        "emails": [
+          "mercedesmago.unasucre@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MERCEDES MAGO",
+        "sourceArea": "INVESTIGACIÓN- EDUCACIÓN",
+        "sourceSubjects": "011-118-119-126-412-421-471-477-483-576-\n578-474-495",
+        "sourceContact": "mercedesmago.unasucre@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "carupano",
+    "name": "Carúpano",
+    "period": "2026-2",
+    "sourceUrl": "https://unasucre.com.ve/wp-content/uploads/2026/06/CARGA-ACADEMICA-2026-2-CARUPANO.pdf",
+    "advisors": [
+      {
+        "id": "carupano-1",
+        "name": "Veguis Ramirez",
+        "area": "Contaduría",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "606",
+          "618",
+          "632",
+          "633",
+          "634",
+          "636",
+          "637",
+          "639",
+          "642",
+          "649",
+          "650",
+          "655",
+          "661",
+          "663",
+          "665",
+          "666",
+          "669",
+          "673",
+          "691",
+          "692",
+          "697"
+        ],
+        "emails": [
+          "contadsucreuna@gmail.com"
+        ],
+        "phones": [
+          "04248522279"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "VEGUISRAMIREZ (CUMANÁ)",
+        "sourceArea": "CONTADURÍA",
+        "sourceSubjects": "606-618-632-633-634-636-637-639-642-\n649-650-655-661-663-665-666-669-673-\n691-692-697",
+        "sourceContact": "contadsucreuna@gmail.com\n04248522279"
+      },
+      {
+        "id": "carupano-2",
+        "name": "Mirla Núñez",
+        "area": "Administración",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "601",
+          "602",
+          "603",
+          "605",
+          "607",
+          "608",
+          "613",
+          "614",
+          "617",
+          "631",
+          "671",
+          "672",
+          "681",
+          "696",
+          "699"
+        ],
+        "emails": [
+          "admoneuna@gmail.com"
+        ],
+        "phones": [
+          "0424-8838489",
+          "0426-2865699"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MIRLANÚÑEZ (CUMANÁ)",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "601-602-603-605-607-608-613- 614-\n617-631-671-672-681-696-699",
+        "sourceContact": "admoneuna@gmail.com\nCel.0424-8838489\n0426-2865699"
+      },
+      {
+        "id": "carupano-3",
+        "name": "Johan Blanco",
+        "area": "Administración",
+        "referenceLocation": "",
+        "subjects": [
+          "604",
+          "641",
+          "638",
+          "651",
+          "653"
+        ],
+        "emails": [
+          "johanjoseblancomartinez@gmail.com"
+        ],
+        "phones": [
+          "0412-6950379"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANBLANCO",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "604-641-638-651-653",
+        "sourceContact": "johanjoseblancomartinez@gmail.com\n0412-6950379"
+      },
+      {
+        "id": "carupano-4",
+        "name": "Gregorio Martínez",
+        "area": "Ingeniería de Sistemas",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "116",
+          "305",
+          "306",
+          "310",
+          "311",
+          "315",
+          "316",
+          "321",
+          "323",
+          "324",
+          "327",
+          "330",
+          "332",
+          "333",
+          "335",
+          "336",
+          "337",
+          "338",
+          "339",
+          "341",
+          "342",
+          "347",
+          "348",
+          "349",
+          "350",
+          "358",
+          "359",
+          "370",
+          "371",
+          "372",
+          "373",
+          "374",
+          "440",
+          "482",
+          "625"
+        ],
+        "emails": [
+          "gregoriomartinez.ing@gmail.com"
+        ],
+        "phones": [
+          "04262157890"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "GREGORIO MARTÍNEZ (CARÚPANO)",
+        "sourceArea": "ING.SISTEMAS",
+        "sourceSubjects": "116-305-306-310-311-315-316-321--\n323-324-327-330-332-333-335-336-337-\n338-339-341-342-347-348-349-350-\n358-359-370-371-372-373-374-440-482-\n625",
+        "sourceContact": "gregoriomartinez.ing@gmail.com\n04262157890"
+      },
+      {
+        "id": "carupano-5",
+        "name": "Maria T. Gracìa",
+        "area": "Ingeniería Industrial (Cumaná, según fuente)",
+        "referenceLocation": "",
+        "subjects": [
+          "200",
+          "203",
+          "207",
+          "208",
+          "209",
+          "231",
+          "232",
+          "234",
+          "237",
+          "238",
+          "240",
+          "252",
+          "255",
+          "259",
+          "300",
+          "326",
+          "201",
+          "202",
+          "205",
+          "206",
+          "216",
+          "222",
+          "223",
+          "225",
+          "325",
+          "235",
+          "236",
+          "241",
+          "251",
+          "257",
+          "258"
+        ],
+        "emails": [
+          "matrinidad152604@gmail.com"
+        ],
+        "phones": [],
+        "notes": [
+          "Teléfono publicado: 04248-773019. Formato pendiente de confirmar.",
+          "Nombre y referencia de sede reproducidos según el documento."
+        ],
+        "sourcePage": 1,
+        "sourceName": "MARIAT.GRACÌA",
+        "sourceArea": "ING.INDUSTRIAL (CUMANÁ)",
+        "sourceSubjects": "200-203-207-208-209-231-232-234-237-\n238-240-252-255-259-300-326-201-202-\n205-206-216-222-223-225/325-235-236-\n241-251-257-258",
+        "sourceContact": "matrinidad152604@gmail.com\nTelf:04248-773019"
+      },
+      {
+        "id": "carupano-6",
+        "name": "Elizabeth Nuez",
+        "area": "Inglés",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "108"
+        ],
+        "emails": [
+          "Elinuez01@gmail.com"
+        ],
+        "phones": [
+          "04248435067"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ELIZABETH NUEZ(CUMANÁ)",
+        "sourceArea": "INGLES",
+        "sourceSubjects": "108",
+        "sourceContact": "Elinuez01@gmail.com\n04248435067"
+      },
+      {
+        "id": "carupano-7",
+        "name": "Orlando Osuna",
+        "area": "Matemáticas",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "733",
+          "734",
+          "735",
+          "737",
+          "738",
+          "739",
+          "745",
+          "746",
+          "747",
+          "748",
+          "749",
+          "750",
+          "751",
+          "752",
+          "753",
+          "754",
+          "757",
+          "755",
+          "756",
+          "758",
+          "759",
+          "760",
+          "761",
+          "762",
+          "764",
+          "765",
+          "766",
+          "767",
+          "768",
+          "772",
+          "776",
+          "783"
+        ],
+        "emails": [
+          "oosuna_928@hotmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ORLANDOOSUNA (CARÚPANO)",
+        "sourceArea": "MATEMÁTICAS",
+        "sourceSubjects": "733-734-735-737-738-739-745-746-747-\n748-749-750-751-752-753-754-757-754-\n/755-756-757-758-759-760-761-762-764-\n765-766-767-768-772-776-783-",
+        "sourceContact": "oosuna_928@hotmail.com"
+      },
+      {
+        "id": "carupano-8",
+        "name": "Mario Carrera",
+        "area": "Matemáticas / Educación",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "106",
+          "107",
+          "112",
+          "175",
+          "176",
+          "177",
+          "178",
+          "179",
+          "408",
+          "414",
+          "420",
+          "476",
+          "479",
+          "532",
+          "542",
+          "545",
+          "547",
+          "551",
+          "552",
+          "555",
+          "575",
+          "577",
+          "579",
+          "580"
+        ],
+        "emails": [
+          "mariocmat1@hotmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MARIOCARRERA (CARÚPANO)",
+        "sourceArea": "MATEMATICAS EDUCACIÓN",
+        "sourceSubjects": "106-107-112-175-176-177-178-179-408-\n414-420-476-479-532-542-545-547-551-\n552-555-575-577-579-580",
+        "sourceContact": "mariocmat1@hotmail.com"
+      },
+      {
+        "id": "carupano-9",
+        "name": "Olga Rendón",
+        "area": "Investigación / Educación",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "011",
+          "117",
+          "118",
+          "126",
+          "576",
+          "471",
+          "473",
+          "477",
+          "578"
+        ],
+        "emails": [
+          "olgateresa94@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "OLGARENDÓN (CARÚPANO)",
+        "sourceArea": "INVESTIGACIÓN/ EDUCACIÓN",
+        "sourceSubjects": "011-117-118-126-576-471-473-477-578",
+        "sourceContact": "olgateresa94@gmail.com"
+      },
+      {
+        "id": "carupano-10",
+        "name": "Fulgencio Toledo",
+        "area": "Educación Integral",
+        "referenceLocation": "Carupano",
+        "subjects": [
+          "421",
+          "427",
+          "433",
+          "437",
+          "451",
+          "472",
+          "474",
+          "480",
+          "483",
+          "485",
+          "487",
+          "489",
+          "490",
+          "493",
+          "495",
+          "497",
+          "530",
+          "517",
+          "524",
+          "536"
+        ],
+        "emails": [
+          "fatfulgen2020@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "FULGENCIO TOLEDO (CARUPANO)",
+        "sourceArea": "EDUCACIÓN INTEGRAL",
+        "sourceSubjects": "421-427-433-437-451-472-474-480-483-\n485-487-489-490-493-495-497-530-517-\n524-536",
+        "sourceContact": "fatfulgen2020@gmail.com"
+      },
+      {
+        "id": "carupano-11",
+        "name": "Martha Cabrera",
+        "area": "Lengua / Educación",
+        "referenceLocation": "",
+        "subjects": [
+          "115",
+          "119",
+          "411",
+          "120",
+          "412",
+          "431",
+          "434",
+          "454",
+          "457",
+          "478",
+          "481",
+          "491",
+          "492",
+          "498",
+          "520",
+          "121",
+          "122"
+        ],
+        "emails": [
+          "marthacf16@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MARTHACABRERA",
+        "sourceArea": "LENGUA/EDUC.",
+        "sourceSubjects": "115-119-411-120- 412-431-434-454-\n457-478-481-491-492-498-520-121-122",
+        "sourceContact": "marthacf16@gmail.com"
+      },
+      {
+        "id": "carupano-12",
+        "name": "Carmen Larez",
+        "area": "Orientación / Introductorio",
+        "referenceLocation": "",
+        "subjects": [
+          "000",
+          "475"
+        ],
+        "emails": [
+          "Carmenlarez.cll@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "CARMENLAREZ",
+        "sourceArea": "ORIENTACIÓN/ INTRODUCTORIO",
+        "sourceSubjects": "000-475",
+        "sourceContact": "Carmenlarez.cll@gmail.com"
+      },
+      {
+        "id": "carupano-13",
+        "name": "Johana Romero",
+        "area": "Educación Preescolar",
+        "referenceLocation": "",
+        "subjects": [
+          "050",
+          "051",
+          "052",
+          "053",
+          "054",
+          "055",
+          "057",
+          "059",
+          "559",
+          "562",
+          "056",
+          "058",
+          "060",
+          "061",
+          "062",
+          "063",
+          "064",
+          "560",
+          "564"
+        ],
+        "emails": [
+          "Rjohanna0925@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANAROMERO",
+        "sourceArea": "EDUCACIÓN PREESCOLAR",
+        "sourceSubjects": "050-051-052-053-054-055-057-059-559-\n562- 056-058-060-061-062-063-064-\n560-564",
+        "sourceContact": "Rjohanna0925@gmail.com"
+      },
+      {
+        "id": "carupano-14",
+        "name": "Denisse Salazar",
+        "area": "Educación, Dificultades de Aprendizaje",
+        "referenceLocation": "",
+        "subjects": [
+          "512",
+          "520",
+          "581",
+          "583",
+          "584",
+          "587",
+          "588",
+          "591",
+          "592",
+          "594",
+          "596"
+        ],
+        "emails": [
+          "denisse_salazar59@hotmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "DENISSESALAZAR",
+        "sourceArea": "EDUCACIÓN DIFICULTADDE APRENDIZAJE/",
+        "sourceSubjects": "512-520-581-583-584-587-588-591-592-\n594-596",
+        "sourceContact": "denisse_salazar59@hotmail.com"
+      },
+      {
+        "id": "carupano-15",
+        "name": "Maryorys Carvajal",
+        "area": "Educación, Dificultades de Aprendizaje",
+        "referenceLocation": "",
+        "subjects": [
+          "516",
+          "570",
+          "571",
+          "582",
+          "585",
+          "586",
+          "589",
+          "590",
+          "593",
+          "595",
+          "597"
+        ],
+        "emails": [
+          "ccymayo@gmail.com"
+        ],
+        "phones": [
+          "0414-7511007"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MARYORYS CARVAJAL",
+        "sourceArea": "EDUCACIÓN DIFICULTADDE APRENDIZAJE/",
+        "sourceSubjects": "516-570-571-582--585-586-589-590-593-\n595-597",
+        "sourceContact": "ccymayo@gmail.com\ncel:0414-7511007"
+      },
+      {
+        "id": "carupano-16",
+        "name": "Gainet Ruìz",
+        "area": "Extensión Universitaria",
+        "referenceLocation": "Cumana",
+        "subjects": [
+          "810",
+          "811",
+          "812",
+          "813",
+          "814",
+          "816"
+        ],
+        "emails": [
+          "gainet.ruiz@hotmail.com"
+        ],
+        "phones": [
+          "0414-8150912"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "GAINETRUÌZ (CUMANA)",
+        "sourceArea": "EXTENSIÒN UNIVERSITARIA",
+        "sourceSubjects": "810-811-812-813-814-816",
+        "sourceContact": "gainet.ruiz@hotmail.com\n0414-8150912"
+      },
+      {
+        "id": "carupano-17",
+        "name": "Eduardo Arias",
+        "area": "Educación",
+        "referenceLocation": "",
+        "subjects": [
+          "410",
+          "416",
+          "423",
+          "428",
+          "444",
+          "465",
+          "468",
+          "469",
+          "484",
+          "488",
+          "486"
+        ],
+        "emails": [
+          "eduarrr73@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "EDUARDOARIAS",
+        "sourceArea": "EDUCACIÓN",
+        "sourceSubjects": "410-416-423-428-444-465-468-469-484-\n488-486",
+        "sourceContact": "eduarrr73@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "cariaco",
+    "name": "Cariaco",
+    "period": "2026-2",
+    "sourceUrl": "https://unasucre.com.ve/wp-content/uploads/2026/06/CARGA-ACADEMICA-2026-2-CARIACO.pdf",
+    "advisors": [
+      {
+        "id": "cariaco-1",
+        "name": "Veguis Ramirez",
+        "area": "Contaduría",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "606",
+          "618",
+          "632",
+          "633",
+          "634",
+          "636",
+          "637",
+          "639",
+          "642",
+          "649",
+          "650",
+          "655",
+          "661",
+          "663",
+          "665",
+          "666",
+          "669",
+          "673",
+          "691",
+          "692",
+          "697"
+        ],
+        "emails": [
+          "contadsucreuna@gmail.com"
+        ],
+        "phones": [
+          "04248522279"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "VEGUISRAMIREZ (CUMANÁ)",
+        "sourceArea": "CONTADURÍA",
+        "sourceSubjects": "606-618-632-633-634-636-637-639-642-\n649-650-655-661-663-665-666-669-673-\n691-692-697",
+        "sourceContact": "contadsucreuna@gmail.com\n04248522279"
+      },
+      {
+        "id": "cariaco-2",
+        "name": "Mirla Núñez",
+        "area": "Administración",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "601",
+          "602",
+          "603",
+          "605",
+          "607",
+          "608",
+          "613",
+          "614",
+          "617",
+          "631",
+          "671",
+          "672",
+          "681",
+          "696",
+          "699"
+        ],
+        "emails": [
+          "admoneuna@gmail.com"
+        ],
+        "phones": [
+          "0424-8838489",
+          "0426-2865699"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MIRLANÚÑEZ (CUMANÁ)",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "601-602-603-605-607-608-613- 614-617-\n631-671-672-681-696-699",
+        "sourceContact": "admoneuna@gmail.com\nCel.0424-8838489-0426-2865699"
+      },
+      {
+        "id": "cariaco-3",
+        "name": "Johan Blanco",
+        "area": "Administración",
+        "referenceLocation": "Cumana",
+        "subjects": [
+          "604",
+          "641",
+          "638",
+          "651",
+          "653"
+        ],
+        "emails": [
+          "johanjoseblancomartinez@gmail.com"
+        ],
+        "phones": [
+          "0412-6950379"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANBLANCO (CUMANA)",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "604-641-638-651-653",
+        "sourceContact": "johanjoseblancomartinez@gmail.com\n0412-6950379"
+      },
+      {
+        "id": "cariaco-4",
+        "name": "Gregorio Martínez",
+        "area": "Ingeniería de Sistemas",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "116",
+          "305",
+          "306",
+          "310",
+          "311",
+          "315",
+          "316",
+          "321",
+          "323",
+          "324",
+          "327",
+          "330",
+          "332",
+          "333",
+          "335",
+          "336",
+          "337",
+          "338",
+          "339",
+          "341",
+          "342",
+          "347",
+          "348",
+          "349",
+          "350",
+          "358",
+          "359",
+          "370",
+          "371",
+          "372",
+          "373",
+          "374",
+          "440",
+          "625"
+        ],
+        "emails": [
+          "gregoriomartinez.ing@gmail.com"
+        ],
+        "phones": [
+          "04262157890"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "GREGORIO MARTÍNEZ (CARÚPANO)",
+        "sourceArea": "ING.SISTEMAS",
+        "sourceSubjects": "116-305-306-310- 311-315-316-321-323-\n324--327-330-332-333-335-336-337-338-\n339-341-342-347--348-349-350-358-359-\n370-371-372-373-374-440-625",
+        "sourceContact": "gregoriomartinez.ing@gmail.com\n04262157890"
+      },
+      {
+        "id": "cariaco-5",
+        "name": "Elizabeth Nuez",
+        "area": "Inglés",
+        "referenceLocation": "Cumana",
+        "subjects": [
+          "108"
+        ],
+        "emails": [
+          "Elinuez01@gmail.com"
+        ],
+        "phones": [
+          "0424-8435067"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ELIZABETHNUEZ (CUMANA)",
+        "sourceArea": "INGLES",
+        "sourceSubjects": "108",
+        "sourceContact": "Elinuez01@gmail.com\n0424-8435067"
+      },
+      {
+        "id": "cariaco-6",
+        "name": "Maria T. Gracìa",
+        "area": "Ingeniería Industrial",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "200",
+          "203",
+          "207",
+          "208",
+          "209",
+          "231",
+          "232",
+          "234",
+          "237",
+          "238",
+          "240",
+          "252",
+          "255",
+          "259",
+          "300",
+          "326",
+          "201",
+          "202",
+          "205",
+          "206",
+          "216",
+          "222",
+          "223",
+          "225",
+          "325",
+          "235",
+          "236",
+          "241",
+          "251",
+          "257",
+          "258"
+        ],
+        "emails": [
+          "matrinidad152604@gmail.com"
+        ],
+        "phones": [],
+        "notes": [
+          "Teléfono publicado: 04248-773019. Formato pendiente de confirmar.",
+          "Nombre y referencia de sede reproducidos según el documento."
+        ],
+        "sourcePage": 1,
+        "sourceName": "MARIAT.GRACÌA (CARÚPANO)",
+        "sourceArea": "ING.INDUSTRIAL",
+        "sourceSubjects": "200-203-207-208-209-231-232-234-237-\n238-240-252-255-259-300-326\n201-202-205-206-216-222-223-225/325-\n235-236-241-251-257-258",
+        "sourceContact": "matrinidad152604@gmail.com\nTelf:04248-773019"
+      },
+      {
+        "id": "cariaco-7",
+        "name": "Orlando Osuna",
+        "area": "Matemáticas",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "733",
+          "734",
+          "735",
+          "737",
+          "738",
+          "739",
+          "745",
+          "746",
+          "747",
+          "748",
+          "749",
+          "750",
+          "751",
+          "752",
+          "753",
+          "754",
+          "757",
+          "755",
+          "756",
+          "758",
+          "759",
+          "760",
+          "761",
+          "762",
+          "764",
+          "765",
+          "766",
+          "767",
+          "768",
+          "772",
+          "776",
+          "783"
+        ],
+        "emails": [
+          "oosuna_928@hotmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ORLANDOOSUNA (CARÚPANO)",
+        "sourceArea": "MATEMÁTICAS",
+        "sourceSubjects": "733-734-735-737-738-739-745-746-747-\n748-749-750-751-752-753-754-757-754-\n/755-756-757-758-759-760-761-762-764-\n765-766-767-768-772-776-783",
+        "sourceContact": "oosuna_928@hotmail.com"
+      },
+      {
+        "id": "cariaco-8",
+        "name": "Euder Contreras",
+        "area": "Educación / Matemáticas",
+        "referenceLocation": "Cariaco",
+        "subjects": [
+          "106",
+          "107",
+          "112",
+          "117",
+          "175",
+          "176",
+          "177",
+          "178",
+          "179",
+          "408",
+          "414",
+          "420",
+          "476",
+          "479",
+          "532",
+          "542",
+          "545",
+          "547",
+          "551",
+          "552",
+          "555",
+          "575",
+          "577",
+          "579",
+          "580"
+        ],
+        "emails": [
+          "7941715@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "EUDERCONTRERAS (CARIACO)",
+        "sourceArea": "EDUC. MATEMATICAS",
+        "sourceSubjects": "106-107-112-117-175-176-177-178-179-\n408-414-420-476-479-532-542-545-547-\n551-552-555-575-577-579-580",
+        "sourceContact": "7941715@gmail.com"
+      },
+      {
+        "id": "cariaco-9",
+        "name": "Agueda Velásquez",
+        "area": "Educación",
+        "referenceLocation": "Cariaco",
+        "subjects": [
+          "115",
+          "120",
+          "126",
+          "405",
+          "411",
+          "423",
+          "478",
+          "431",
+          "437",
+          "480",
+          "481",
+          "451",
+          "454",
+          "457",
+          "475",
+          "486",
+          "490",
+          "491",
+          "498",
+          "121",
+          "427",
+          "517",
+          "524",
+          "530",
+          "534",
+          "536"
+        ],
+        "emails": [
+          "aguedavuna@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "AGUEDAVELÁSQUEZ (CARIACO)",
+        "sourceArea": "EDUCACIÓN",
+        "sourceSubjects": "115-120-126-405-411-423-478-431-437-\n480-481-451-454-457-475-486-490-491-\n498-121-427-517-524-530-534-536",
+        "sourceContact": "aguedavuna@gmail.com"
+      },
+      {
+        "id": "cariaco-10",
+        "name": "Eduardo Arias",
+        "area": "Educación",
+        "referenceLocation": "Cariaco",
+        "subjects": [
+          "122",
+          "412",
+          "410",
+          "416",
+          "421",
+          "444",
+          "465",
+          "468",
+          "469",
+          "471",
+          "472",
+          "474",
+          "483",
+          "484",
+          "485",
+          "487",
+          "488",
+          "489",
+          "492",
+          "494",
+          "495",
+          "497",
+          "428",
+          "433",
+          "434",
+          "493"
+        ],
+        "emails": [
+          "eduarrr73@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "EDUARDOARIAS (CARIACO)",
+        "sourceArea": "EDUCACIÓN",
+        "sourceSubjects": "122-412-410-416-421-444-465-468-\n469-471-472-474-483-484-485-487-488-\n489-492-494-495-497-428-433-434-493",
+        "sourceContact": "eduarrr73@gmail.com"
+      },
+      {
+        "id": "cariaco-11",
+        "name": "Carmen Mata",
+        "area": "Introductorio / Dificultades de Aprendizaje",
+        "referenceLocation": "",
+        "subjects": [
+          "000",
+          "011",
+          "512",
+          "520",
+          "581",
+          "583",
+          "584",
+          "587",
+          "588",
+          "591",
+          "592",
+          "594",
+          "596",
+          "516",
+          "582",
+          "585",
+          "586",
+          "589",
+          "590",
+          "593",
+          "595",
+          "597",
+          "570",
+          "571"
+        ],
+        "emails": [
+          "carmenjmatav1810@gmail.com"
+        ],
+        "phones": [
+          "04124882253"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "CARMENMATA",
+        "sourceArea": "INTRODUCTORIO DIFICULTAD APREND.",
+        "sourceSubjects": "000\n011-512-520-581-583-584-587-588-591-\n592-594-596 -516-582--585-586-589-590-\n593-595-597-570-571",
+        "sourceContact": "carmenjmatav1810@gmail.com\n04124882253"
+      },
+      {
+        "id": "cariaco-12",
+        "name": "Johana Romero",
+        "area": "Educación Preescolar",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "050",
+          "051",
+          "052",
+          "053",
+          "054",
+          "055",
+          "057",
+          "059",
+          "056",
+          "058",
+          "060",
+          "061",
+          "062",
+          "063",
+          "064",
+          "559",
+          "560",
+          "562",
+          "564"
+        ],
+        "emails": [
+          "Rjohanna0925@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANAROMERO (CARÚPANO)",
+        "sourceArea": "EDUC. PREESCOLAR",
+        "sourceSubjects": "050-051-052-053-054-055-057-059-056-\n058-060-061-062-063-064-559-560-562-\n564",
+        "sourceContact": "Rjohanna0925@gmail.com"
+      },
+      {
+        "id": "cariaco-13",
+        "name": "Olga Rendòn",
+        "area": "Educación",
+        "referenceLocation": "",
+        "subjects": [
+          "118",
+          "576",
+          "578",
+          "477"
+        ],
+        "emails": [
+          "olgateresa94@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "OLGARENDÒN",
+        "sourceArea": "EDUCACIÒN",
+        "sourceSubjects": "118-576-578-477",
+        "sourceContact": "olgateresa94@gmail.com"
+      },
+      {
+        "id": "cariaco-14",
+        "name": "Gainet Ruìz",
+        "area": "Extensión Universitaria",
+        "referenceLocation": "",
+        "subjects": [
+          "810",
+          "811",
+          "812",
+          "813",
+          "814",
+          "816"
+        ],
+        "emails": [
+          "gainet.ruiz@hotmail.com"
+        ],
+        "phones": [
+          "0414-8150912"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "GAINETRUÌZ",
+        "sourceArea": "EXTENSIÓN UNIVERSITARIA",
+        "sourceSubjects": "810-811-812-813-814-816",
+        "sourceContact": "gainet.ruiz@hotmail.com\n0414-8150912"
+      },
+      {
+        "id": "cariaco-15",
+        "name": "Mercedes Mago",
+        "area": "Educación / Investigación",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "119"
+        ],
+        "emails": [
+          "mercedesmago.unasucre@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MERCEDESMAGO (CUMANÁ)",
+        "sourceArea": "EDUCACIÓN- INVESTIGACIÓN",
+        "sourceSubjects": "119",
+        "sourceContact": "mercedesmago.unasucre@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "guiria-11-6",
+    "name": "Güiria",
+    "period": "2026-2",
+    "sourceUrl": "https://unasucre.com.ve/wp-content/uploads/2026/06/CARGA-ACADEMICA-2026-2-GUIRIA-11-6.pdf",
+    "advisors": [
+      {
+        "id": "guiria-11-6-1",
+        "name": "Veguis Ramirez",
+        "area": "Contaduría",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "606",
+          "618",
+          "632",
+          "633",
+          "634",
+          "636",
+          "637",
+          "639",
+          "642",
+          "649",
+          "650",
+          "655",
+          "661",
+          "663",
+          "665",
+          "666",
+          "669",
+          "673",
+          "691",
+          "692",
+          "697"
+        ],
+        "emails": [
+          "contadsucreuna@gmail.com"
+        ],
+        "phones": [
+          "04248522279"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "VEGUISRAMIREZ (CUMANÁ)",
+        "sourceArea": "CONTADURÍA",
+        "sourceSubjects": "606-618-632-633-634-636-637-639-642-\n649-650-655-661-663-665-666-669-673-\n691-692-697",
+        "sourceContact": "contadsucreuna@gmail.com\n04248522279"
+      },
+      {
+        "id": "guiria-11-6-2",
+        "name": "Mirla Núñez",
+        "area": "Administración",
+        "referenceLocation": "Cumaná",
+        "subjects": [
+          "601",
+          "602",
+          "603",
+          "605",
+          "607",
+          "608",
+          "613",
+          "614",
+          "617",
+          "631",
+          "671",
+          "672",
+          "681",
+          "696",
+          "699"
+        ],
+        "emails": [
+          "admoneuna@gmail.com"
+        ],
+        "phones": [
+          "0424-8838489",
+          "0426-2865699"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MIRLANÚÑEZ (CUMANÁ)",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "601-602-603-605-607-608-613- 614-617-\n631-671-672-681-696-699",
+        "sourceContact": "admoneuna@gmail.com\nCel.0424-8838489\n0426-2865699"
+      },
+      {
+        "id": "guiria-11-6-3",
+        "name": "Johan Blanco",
+        "area": "Administración",
+        "referenceLocation": "Cumana",
+        "subjects": [
+          "604",
+          "641",
+          "638",
+          "651",
+          "653"
+        ],
+        "emails": [
+          "johanjoseblancomartinez@gmail.com"
+        ],
+        "phones": [
+          "0412-6950379"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANBLANCO (CUMANA)",
+        "sourceArea": "ADMINISTRACIÓN",
+        "sourceSubjects": "604-641-638-651-653",
+        "sourceContact": "johanjoseblancomartinez@gmail.com\n0412-6950379"
+      },
+      {
+        "id": "guiria-11-6-4",
+        "name": "Gregorio Martínez",
+        "area": "Ingeniería de Sistemas",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "116",
+          "305",
+          "306",
+          "310",
+          "311",
+          "315",
+          "316",
+          "321",
+          "323",
+          "324",
+          "327",
+          "330",
+          "332",
+          "333",
+          "335",
+          "336",
+          "337",
+          "338",
+          "342",
+          "347",
+          "348",
+          "349",
+          "350",
+          "358",
+          "359",
+          "370",
+          "371",
+          "372",
+          "373",
+          "374",
+          "440",
+          "482",
+          "625"
+        ],
+        "emails": [
+          "gregoriomartinez.ing@gmail.com"
+        ],
+        "phones": [
+          "0426-2157890"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "GREGORIO MARTÍNEZ (CARÚPANO)",
+        "sourceArea": "ING.ENSISTEMAS",
+        "sourceSubjects": "116-305-306-310-311-315-316-321--323-\n324-327-330-332-333-335-336-337-338-\n342-347-348-349-350-358-359-370-371-\n372-373-374-440-482-625",
+        "sourceContact": "gregoriomartinez.ing@gmail.com\n0426-2157890"
+      },
+      {
+        "id": "guiria-11-6-5",
+        "name": "Elizabeth Nuez",
+        "area": "Inglés",
+        "referenceLocation": "Cumanà",
+        "subjects": [
+          "108"
+        ],
+        "emails": [
+          "elinuez01@gmail.com"
+        ],
+        "phones": [
+          "0424-8435067"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ElizabethNuez (Cumanà)",
+        "sourceArea": "INGLES",
+        "sourceSubjects": "108",
+        "sourceContact": "elinuez01@gmail.com\n0424-8435067"
+      },
+      {
+        "id": "guiria-11-6-6",
+        "name": "Maria T. Gracìa",
+        "area": "Ingeniería Industrial (Cumaná, según fuente)",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "200",
+          "203",
+          "207",
+          "208",
+          "209",
+          "231",
+          "232",
+          "234",
+          "237",
+          "238",
+          "240",
+          "252",
+          "255",
+          "259",
+          "300",
+          "326",
+          "201",
+          "202",
+          "205",
+          "206",
+          "216",
+          "222",
+          "223",
+          "225",
+          "325",
+          "235",
+          "236",
+          "241",
+          "251",
+          "257",
+          "258"
+        ],
+        "emails": [
+          "matrinidad152604@gmail.com"
+        ],
+        "phones": [],
+        "notes": [
+          "Teléfono publicado: 04248-773019. Formato pendiente de confirmar.",
+          "Nombre y referencia de sede reproducidos según el documento."
+        ],
+        "sourcePage": 1,
+        "sourceName": "MARIAT.GRACÌA (CARÚPANO)",
+        "sourceArea": "ING.INDUSTRIAL (CUMANÁ)",
+        "sourceSubjects": "200-203-207-208-209-231-232-234-237-\n238-240-252-255-259-300-326-201-202-\n205-206-216-222-223-225/325-235-236-\n241-251-257-258",
+        "sourceContact": "matrinidad152604@gmail.com\nTelf:04248-773019"
+      },
+      {
+        "id": "guiria-11-6-7",
+        "name": "Orlando Osuna",
+        "area": "Matemáticas",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "733",
+          "734",
+          "735",
+          "737",
+          "738",
+          "739",
+          "745",
+          "746",
+          "747",
+          "748",
+          "749",
+          "750",
+          "751",
+          "752",
+          "753",
+          "754",
+          "757",
+          "755",
+          "756",
+          "758",
+          "759",
+          "760",
+          "761",
+          "762",
+          "764",
+          "765",
+          "766",
+          "767",
+          "768",
+          "772",
+          "776",
+          "783"
+        ],
+        "emails": [
+          "oosuna_928@hotmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ORLANDOOSUNA (CARÚPANO)",
+        "sourceArea": "MATEMATICAS",
+        "sourceSubjects": "733-734-735-737-738-739-745-746-747-\n748-749-750-751-752-753-754-757-754-\n/755-756-757-758-759-760-761-762-764-\n765-766-767-768-772-776-783-",
+        "sourceContact": "oosuna_928@hotmail.com"
+      },
+      {
+        "id": "guiria-11-6-8",
+        "name": "Estela Montaño",
+        "area": "Matemáticas / Educación",
+        "referenceLocation": "",
+        "subjects": [
+          "106",
+          "107",
+          "112",
+          "175",
+          "176",
+          "177",
+          "178",
+          "179",
+          "408",
+          "414",
+          "420",
+          "476",
+          "479",
+          "532",
+          "542",
+          "545",
+          "547",
+          "551",
+          "552",
+          "555",
+          "575",
+          "577",
+          "579",
+          "580",
+          "451",
+          "472",
+          "495",
+          "468",
+          "469"
+        ],
+        "emails": [
+          "Estelamontano0964@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "ESTELAMONTAÑO",
+        "sourceArea": "MATEMATICAS EDUCACIÓN",
+        "sourceSubjects": "106-107-112-175-176-177-178-179-408-\n414-420-476-479-532-542-545-547-551-\n552-555-575-577-579-580-451-472-495-\n468-469-",
+        "sourceContact": "Estelamontano0964@gmail.com"
+      },
+      {
+        "id": "guiria-11-6-9",
+        "name": "Carmen Larez",
+        "area": "Orientación / Introductorio",
+        "referenceLocation": "",
+        "subjects": [
+          "000",
+          "437",
+          "444",
+          "451",
+          "492",
+          "465",
+          "475",
+          "486",
+          "494",
+          "497",
+          "485",
+          "489",
+          "498"
+        ],
+        "emails": [
+          "Carmenlarez.cll@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "CARMENLAREZ",
+        "sourceArea": "ORIENTACIÓN INTRODUCTORIO",
+        "sourceSubjects": "000\n-437-444-451-492-465-475-486-492.494-\n497-485-489-498",
+        "sourceContact": "Carmenlarez.cll@gmail.com"
+      },
+      {
+        "id": "guiria-11-6-10",
+        "name": "Olga Rendón",
+        "area": "Investigación",
+        "referenceLocation": "",
+        "subjects": [
+          "011",
+          "117",
+          "118",
+          "126",
+          "576",
+          "471",
+          "473",
+          "477",
+          "578"
+        ],
+        "emails": [
+          "olgateresa94@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "OLGARENDÓN",
+        "sourceArea": "INVESTIGACIÓN",
+        "sourceSubjects": "011-117-118-126-576-471-473-477-578",
+        "sourceContact": "olgateresa94@gmail.com"
+      },
+      {
+        "id": "guiria-11-6-11",
+        "name": "Fulgencio Toledo",
+        "area": "Educación Integral",
+        "referenceLocation": "Carupano",
+        "subjects": [
+          "421",
+          "427",
+          "433",
+          "474",
+          "480",
+          "483",
+          "484",
+          "487",
+          "488",
+          "490",
+          "493",
+          "495",
+          "517",
+          "524",
+          "530",
+          "536",
+          "556"
+        ],
+        "emails": [
+          "fatfulgen2020@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "FULGENCIO TOLEDO (CARUPANO))",
+        "sourceArea": "EDUCACIÓN INTEGRAL",
+        "sourceSubjects": "421-427-433-474-480-483-484-487-488-\n490-493-495-517-524-530-536-556",
+        "sourceContact": "fatfulgen2020@gmail.com"
+      },
+      {
+        "id": "guiria-11-6-12",
+        "name": "Yanis Calzadilla",
+        "area": "Lengua / Educación",
+        "referenceLocation": "Guiria",
+        "subjects": [
+          "115",
+          "120",
+          "121",
+          "122",
+          "119",
+          "411",
+          "412",
+          "431",
+          "434",
+          "454",
+          "457",
+          "478",
+          "481",
+          "491",
+          "520",
+          "410",
+          "416",
+          "423",
+          "428"
+        ],
+        "emails": [
+          "Yaniscalzadilla24@gmail.com"
+        ],
+        "phones": [
+          "04243607159"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "YANISCALZADILLA (GUIRIA)",
+        "sourceArea": "LENGUA/ EDUCACIÓN",
+        "sourceSubjects": "115-120-121-122-119-411-412-431-434-\n454-457--478-481-491-520-410-416-423-\n428-434",
+        "sourceContact": "Yaniscalzadilla24@gmail.com\n04243607159"
+      },
+      {
+        "id": "guiria-11-6-13",
+        "name": "Johana Romero",
+        "area": "Educación Preescolar",
+        "referenceLocation": "Carúpano",
+        "subjects": [
+          "050",
+          "051",
+          "052",
+          "053",
+          "054",
+          "055",
+          "057",
+          "059",
+          "559",
+          "562",
+          "056",
+          "058",
+          "060",
+          "061",
+          "062",
+          "063",
+          "064",
+          "560",
+          "564"
+        ],
+        "emails": [
+          "Rjohanna0925@gmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "JOHANAROMERO (CARÚPANO)",
+        "sourceArea": "EDUCACIÓN PREESCOLAR",
+        "sourceSubjects": "050-051-052-053-054-055-057-059-559-\n562- 056-058-060-061-062-063-064-560-\n564-",
+        "sourceContact": "Rjohanna0925@gmail.com"
+      },
+      {
+        "id": "guiria-11-6-14",
+        "name": "Denisse Salazar",
+        "area": "Educación, Dificultades de Aprendizaje",
+        "referenceLocation": "",
+        "subjects": [
+          "512",
+          "520",
+          "581",
+          "583",
+          "584",
+          "587",
+          "588",
+          "591",
+          "592",
+          "594",
+          "596",
+          "405"
+        ],
+        "emails": [
+          "denisse_salazar59@hotmail.com"
+        ],
+        "phones": [],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "DENISSESALAZAR",
+        "sourceArea": "EDUC. DIFICULTADDE APRENDIZAJE",
+        "sourceSubjects": "512-520-581-583-584-587-588-591-592-\n594-596-405",
+        "sourceContact": "denisse_salazar59@hotmail.com"
+      },
+      {
+        "id": "guiria-11-6-15",
+        "name": "Maryorys Carvajal",
+        "area": "Educación, Dificultades de Aprendizaje",
+        "referenceLocation": "",
+        "subjects": [
+          "516",
+          "570",
+          "571",
+          "582",
+          "585",
+          "586",
+          "589",
+          "590",
+          "593",
+          "595",
+          "597",
+          "534"
+        ],
+        "emails": [
+          "ccymayo@gmail.com"
+        ],
+        "phones": [
+          "0414-7511007"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "MARYORYSCARVAJAL",
+        "sourceArea": "EDUC. DIFICULTADDE APRENDIZAJE",
+        "sourceSubjects": "516-570-571-582--585-586-589-590-593-\n595-597-534",
+        "sourceContact": "ccymayo@gmail.com\n0414-7511007"
+      },
+      {
+        "id": "guiria-11-6-16",
+        "name": "Gainet Ruìz",
+        "area": "Extensión Universitaria",
+        "referenceLocation": "",
+        "subjects": [
+          "810",
+          "811",
+          "812",
+          "813",
+          "814",
+          "816"
+        ],
+        "emails": [
+          "gainet.ruiz@hotmail.com"
+        ],
+        "phones": [
+          "0414-8150912"
+        ],
+        "notes": [],
+        "sourcePage": 1,
+        "sourceName": "GAINETRUÌZ",
+        "sourceArea": "EXTENSIÓN UNIVERSITARIA",
+        "sourceSubjects": "810-811-812-813-814-816",
+        "sourceContact": "gainet.ruiz@hotmail.com\n0414-8150912"
+      }
+    ]
+  }
+]
