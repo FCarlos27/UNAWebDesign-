@@ -1,19 +1,60 @@
-# React + Vite
+# UNA Web Design — Centro Local Sucre
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sitio web del **Centro Local Sucre** de la **Universidad Nacional Abierta (UNA)**, orientado a la difusión de información institucional y a los servicios académicos para los estudiantes de las sedes de **Cumaná, Carúpano, Cariaco y Güiria** (estado Sucre, Venezuela).
 
-Currently, two official plugins are available:
+## Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Aplicación web de una sola página (SPA) con fines informativos y de gestión académica. Incluye:
 
-## React Compiler
+- Barra de navegación principal con menús desplegables (La UNA, Sobre Nosotros, Directorio y Autoridades, Organigrama, Oferta Académica, Trámites y Aranceles, etc.).
+- Sección principal (Hero) con la identidad institucional.
+- Pilares institucionales y estadísticas destacadas.
+- Tarjetas de acceso a carreras de pregrado, postgrado y cursos.
+- Diseño responsivo (versión de escritorio y menú móvil).
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Tecnologías utilizadas
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+| Tecnología | Uso |
+| --- | --- |
+| [React 19](https://react.dev/) | Biblioteca de interfaz de usuario (componentes con JSX) |
+| [Vite 8](https://vite.dev/) | Servidor de desarrollo y empaquetado |
+| [Tailwind CSS 4](https://tailwindcss.com/) | Estilos utilitarios (`@tailwindcss/vite`) |
+| [React Compiler](https://react.dev/learn/react-compiler) | Optimización automática de componentes (`babel-plugin-react-compiler`) |
+| [Roboto](https://fonts.google.com/specimen/Roboto) | Tipografía del sitio (Google Fonts) |
+| [ESLint 10](https://eslint.org/) | Análisis estático del código |
 
-## Expanding the ESLint configuration
+## Estructura del proyecto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+src/
+├── assets/
+│   └── icons/            # Logotipos institucionales
+├── components/
+│   ├── home/             # Hero, Stats, Tarjetas, QuickLinks
+│   └── navigation/       # Navbar y menús desplegables
+├── config/
+│   └── navigation.js     # Estructura de menús y rutas
+├── App.jsx               # Composición de la página
+├── index.css             # Tailwind + tipografía
+└── main.jsx              # Punto de entrada de React
+```
+
+## Puesta en marcha
+
+```bash
+npm install
+npm run dev      # servidor de desarrollo
+npm run build    # compilación para producción
+npm run preview  # previsualizar el build
+npm run lint     # revisar el código con ESLint
+```
+
+## Identidad visual
+
+- Azul institucional principal: `#1E407C`
+- Azul secundario (barra de utilidad): `rgba(0, 95, 169, 0.8)`
+- Tipografía: Roboto, en blanco y negrita sobre las barras de navegación.
+
+## Estado
+
+Proyecto en desarrollo. La sección `QuickLinks` está implementada pero aún no habilitada en la página principal.

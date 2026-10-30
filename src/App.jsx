@@ -1,7 +1,7 @@
 import { Navbar } from './components/navigation/Navbar';
 import { Hero } from './components/home/Hero';
 import { Stats } from './components/home/Stats';
-import { InstitutionalPillars } from './components/home/Tarjetas';
+import { PilaresInstitucionales, Tarjetas } from './components/home/Tarjetas';
 import { QuickLinks } from './components/home/QuickLinks';
 
 export function App() {
@@ -11,9 +11,10 @@ export function App() {
 
       <main className="flex-1">
         <Hero />
-        <InstitutionalPillars/>
+        <PilaresInstitucionales/>
         <Stats />
-        <QuickLinks />
+        <Tarjetas/>
+        {/* <QuickLinks /> */}
       </main>
 
       <footer className="bg-blue-950 text-slate-400 py-8 border-t border-blue-900 text-center text-xs">
