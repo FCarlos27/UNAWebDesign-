@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 export function PilaresInstitucionales() {
   const pillars = [
     {
@@ -26,7 +27,7 @@ export function PilaresInstitucionales() {
   return (
     <section className="bg-white py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
+
         <div className="border-l-4 border-blue-900 pl-4 mb-10">
           <h2 className="text-3xl font-black text-slate-900 uppercase tracking-tight">
             Identidad Institucional
@@ -38,15 +39,15 @@ export function PilaresInstitucionales() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {pillars.map((item, index) => (
-            <div 
-              key={index} 
+            <div
+              key={index}
               className="bg-white border border-slate-200 shadow-sm hover:shadow-xl transition-all flex flex-col justify-between overflow-hidden group"
             >
               {/* Imagen superior estilo Penn State */}
               <div className="h-48 overflow-hidden relative">
-                <img 
-                  src={item.image} 
-                  alt={item.title} 
+                <img
+                  src={item.image}
+                  alt={item.title}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute inset-0 bg-blue-950/10 group-hover:bg-transparent transition-colors"></div>
@@ -68,13 +69,13 @@ export function PilaresInstitucionales() {
 
                 {/* Enlace de lectura completo */}
                 <div className="mt-6 pt-4 border-t border-slate-100">
-                  <a 
-                    href={item.href} 
+                  <Link
+                    to={item.href}
                     className="inline-flex items-center text-xs font-bold uppercase tracking-wider text-blue-900 group-hover:text-blue-700"
                   >
                     <span>Leer completo</span>
                     <span className="ml-1 text-lg group-hover:translate-x-1 transition-transform">→</span>
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -120,7 +121,7 @@ export function Tarjetas() {
   return (
     <section className="bg-slate-50 py-16 border-t border-slate-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
-        
+
         {modules.map((item, index) => (
           <div
             key={index}
@@ -133,22 +134,22 @@ export function Tarjetas() {
               <span className="text-xs font-bold uppercase tracking-widest text-blue-900 bg-blue-50 px-2.5 py-1 inline-block">
                 {item.subtitle}
               </span>
-              
+
               <h3 className="text-2xl lg:text-3xl font-extrabold text-slate-900 tracking-tight">
                 {item.title}
               </h3>
-              
+
               <p className="text-slate-600 text-sm leading-relaxed">
                 {item.description}
               </p>
 
               <div className="pt-2">
-                <a
-                  href={item.href}
+                <Link
+                  to={item.href}
                   className="inline-block border-2 border-blue-900 text-blue-900 hover:bg-blue-900 hover:text-white px-5 py-2.5 text-xs font-bold uppercase tracking-wider transition-colors"
                 >
                   {item.buttonText}
-                </a>
+                </Link>
               </div>
             </div>
 

@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 export function Hero() {
   return (
     <section className="relative bg-slate-900 text-white overflow-hidden">
@@ -25,18 +26,18 @@ export function Hero() {
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
-            <a
-              href="#accesos"
+            <Link
+              to="/tramites/documentos"
               className="px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-blue-950 bg-white hover:bg-slate-100 transition-all shadow-md rounded-none border-l-4 border-blue-600"
             >
               Trámites y Servicios
-            </a>
-            <a
-              href="/academico/pregrado"
+            </Link>
+            <Link
+              to="/academico/pregrado"
               className="px-6 py-3.5 text-sm font-bold uppercase tracking-wider text-white bg-blue-800/80 hover:bg-blue-800 transition-all border border-blue-500/40"
             >
               Oferta de Carreras
-            </a>
+            </Link>
           </div>
 
         </div>

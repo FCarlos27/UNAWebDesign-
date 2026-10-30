@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { useState, useRef } from 'react';
 
 export function NavItemDropdown({ item }) {
@@ -23,7 +24,7 @@ export function NavItemDropdown({ item }) {
       onMouseLeave={handleMouseLeave}
     >
       <button
-        onClick={() => setIsOpen(!isOpen)}
+        aria-expanded={isOpen} onClick={() => setIsOpen(!isOpen)}
         className="flex items-center gap-1 text-sm font-bold uppercase tracking-wider text-white hover:text-blue-200 transition-colors py-2 border-b-2 border-transparent hover:border-white focus:outline-none"
       >
         <span>{item.title}</span>
@@ -43,13 +44,13 @@ export function NavItemDropdown({ item }) {
       {isOpen && (
         <div className="absolute left-0 mt-0 w-64 bg-white shadow-xl border-t-4 border-blue-900 border-x border-b border-slate-200 py-2 z-50">
           {item.children.map((child, index) => (
-            <a
+            <Link
               key={index}
-              href={child.href}
+              to={child.href} onClick={() => setIsOpen(false)}
               className="block px-4 py-2.5 text-xs font-bold uppercase tracking-wider text-slate-700 hover:bg-slate-100 hover:text-blue-950 transition-colors border-b border-slate-100 last:border-none"
             >
               {child.title}
-            </a>
+            </Link>
           ))}
         </div>
       )}

@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { navigationConfig } from '../../config/navigation';
 import { NavItemDropdown } from './NavItemDropdown';
@@ -13,7 +14,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-30">
           
           {/* Logo estilo marca universitaria */}
-          <a href="/" className="flex items-center gap-3">
+          <Link to="/" className="flex items-center gap-3">
             <img
               src={unaLogo}
               alt="Universidad Nacional Abierta"
@@ -27,7 +28,7 @@ export function Navbar() {
                 Universidad Nacional Abierta
               </span>
             </div>
-          </a>
+          </Link>
 
           {/* Navegación Desktop con estilo de pestaña / borde */}
           <nav className="hidden md:flex items-center gap-6">
@@ -35,13 +36,13 @@ export function Navbar() {
               item.children ? (
                 <NavItemDropdown key={index} item={item} />
               ) : (
-                <a
+                <Link
                   key={index}
-                  href={item.href}
+                  to={item.href} onClick={() => setMobileMenuOpen(false)}
                   className="text-sm font-bold uppercase tracking-wider text-white hover:text-blue-200 py-2 border-b-2 border-transparent hover:border-white transition-all"
                 >
                   {item.title}
-                </a>
+                </Link>
               )
             )}
           </nav>
@@ -49,7 +50,7 @@ export function Navbar() {
           {/* Botón Menú Móvil */}
           <div className="md:hidden">
             <button
-              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              aria-label="Abrir o cerrar menú" aria-expanded={mobileMenuOpen} onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               className="p-2 text-white focus:outline-none"
             >
               <svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -76,22 +77,22 @@ export function Navbar() {
                     {item.title}
                   </p>
                   {item.children.map((child, childIdx) => (
-                    <a
+                    <Link
                       key={childIdx}
-                      href={child.href}
+                      to={child.href} onClick={() => setMobileMenuOpen(false)}
                       className="block px-2 py-1.5 text-sm font-medium text-slate-200 hover:text-white hover:bg-blue-900"
                     >
                       {child.title}
-                    </a>
+                    </Link>
                   ))}
                 </>
               ) : (
-                <a
-                  href={item.href}
+                <Link
+                  to={item.href} onClick={() => setMobileMenuOpen(false)}
                   className="block py-2 text-base font-bold uppercase tracking-wider text-white border-b border-blue-900"
                 >
                   {item.title}
-                </a>
+                </Link>
               )}
             </div>
           ))}
