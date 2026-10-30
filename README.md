@@ -12,7 +12,34 @@ Aplicación web de una sola página (SPA) con fines informativos y de gestión a
 - Tarjetas de acceso a carreras de pregrado, postgrado y cursos.
 - Diseño responsivo (versión de escritorio y menú móvil).
 
+## Estructura del repositorio
+
+```
+unaSucreWebsite/
+├── frontend/            # Aplicación React + Vite (implementada)
+│   ├── src/
+│   │   ├── assets/
+│   │   │   └── icons/       # Logotipos institucionales
+│   │   ├── components/
+│   │   │   ├── home/        # Hero, Stats, Tarjetas, QuickLinks
+│   │   │   └── navigation/  # Navbar y menús desplegables
+│   │   ├── config/
+│   │   │   └── navigation.js  # Estructura de menús y rutas
+│   │   ├── App.jsx          # Composición de la página
+│   │   ├── index.css        # Tailwind + tipografía
+│   │   └── main.jsx         # Punto de entrada de React
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
+├── .gitignore
+└── README.md
+```
+
+> `backend/` se agregará en el futuro. Estará fuera de `frontend/`, en la raíz del repositorio.
+
 ## Tecnologías utilizadas
+
+### Frontend
 
 | Tecnología | Uso |
 | --- | --- |
@@ -23,25 +50,16 @@ Aplicación web de una sola página (SPA) con fines informativos y de gestión a
 | [Roboto](https://fonts.google.com/specimen/Roboto) | Tipografía del sitio (Google Fonts) |
 | [ESLint 10](https://eslint.org/) | Análisis estático del código |
 
-## Estructura del proyecto
+### Backend
 
-```
-src/
-├── assets/
-│   └── icons/            # Logotipos institucionales
-├── components/
-│   ├── home/             # Hero, Stats, Tarjetas, QuickLinks
-│   └── navigation/       # Navbar y menús desplegables
-├── config/
-│   └── navigation.js     # Estructura de menús y rutas
-├── App.jsx               # Composición de la página
-├── index.css             # Tailwind + tipografía
-└── main.jsx              # Punto de entrada de React
-```
+_Pendiente de definir._
 
 ## Puesta en marcha
 
+Todos los comandos del frontend se ejecutan dentro de `frontend/`:
+
 ```bash
+cd frontend
 npm install
 npm run dev      # servidor de desarrollo
 npm run build    # compilación para producción
