@@ -1,6 +1,6 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from 'react';
 
-function AnimatedCounter({ value, suffix = "", duration = 1000 }) {
+function AnimatedCounter({ value, suffix = '', duration = 1000 }) {
   const [count, setCount] = useState(0);
   const elementRef = useRef(null);
   const hasAnimated = useRef(false);
@@ -22,10 +22,7 @@ function AnimatedCounter({ value, suffix = "", duration = 1000 }) {
         const startTime = performance.now();
 
         const animate = (currentTime) => {
-          const progress = Math.min(
-            (currentTime - startTime) / duration,
-            1
-          );
+          const progress = Math.min((currentTime - startTime) / duration, 1);
 
           const currentValue = Math.floor(progress * value);
           setCount(currentValue);
@@ -62,23 +59,23 @@ function AnimatedCounter({ value, suffix = "", duration = 1000 }) {
 // Datos de las estadísticas de inicio.
 const stats = [
   {
-    label: "Educación Flexible",
+    label: 'Educación Flexible',
     value: 100,
-    suffix: "%",
-    detail: "Estudia a tu propio ritmo y sin horarios rígidos",
+    suffix: '%',
+    detail: 'Estudia a tu propio ritmo y sin horarios rígidos'
   },
   {
-    label: "Carreras de Pregrado",
+    label: 'Carreras de Pregrado',
     value: 12,
-    suffix: "+",
-    detail: "Ingenierías, Licenciaturas y TSU",
+    suffix: '+',
+    detail: 'Ingenierías, Licenciaturas y TSU'
   },
   {
-    label: "Años de Trayectoria",
+    label: 'Años de Trayectoria',
     value: 45,
-    suffix: "+",
-    detail: "Formando profesionales en el Estado Sucre",
-  },
+    suffix: '+',
+    detail: 'Formando profesionales en el Estado Sucre'
+  }
 ];
 
 // Franja de estadísticas institucionales.
@@ -86,19 +83,20 @@ export function Stats() {
   return (
     <section className="bg-blue-950 text-white border-y border-blue-900">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left divide-y md:divide-y-0 md:divide-x divide-white-800/60">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center
+          md:text-left divide-y md:divide-y-0 md:divide-x
+          divide-white-800/60">
           {stats.map((stat, idx) => (
-            <div key={stat.label} className={`${idx !== 0 ? 'md:pl-8 pt-6 md:pt-0' : ''}`}>
-              <AnimatedCounter
-                value={stat.value}
-                suffix={stat.suffix}
-              />
-              <span className="text-lg font-bold text-blue-200 mt-2 block uppercase tracking-wider">
+            <div
+              key={stat.label}
+              className={`${idx !== 0 ? 'md:pl-8 pt-6 md:pt-0' : ''}`}
+            >
+              <AnimatedCounter value={stat.value} suffix={stat.suffix} />
+              <span className="text-lg font-bold text-blue-200 mt-2 block uppercase
+                tracking-wider">
                 {stat.label}
               </span>
-              <p className="text-xs text-slate-300 mt-1">
-                {stat.detail}
-              </p>
+              <p className="text-xs text-slate-300 mt-1">{stat.detail}</p>
             </div>
           ))}
         </div>
