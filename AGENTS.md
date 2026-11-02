@@ -22,7 +22,7 @@ Sitio del Centro Local Sucre de la Universidad Nacional Abierta. Frontend React 
 ## Estructura y navegación
 - src/main.jsx contiene BrowserRouter; src/App.jsx contiene las rutas y el marco compartido de navegación y pie de página.
 - src/config/navigation.js define las opciones del menú.
-- src/pages/About.jsx implementa Sobre Nosotros usando información general ya existente en el repositorio. Su contenido requiere revisión institucional antes de publicar.
+- src/pages/About.jsx reúne la presentación local y adaptaciones de la historia, misión, visión y los 12 objetivos nacionales de la UNA. Distingue el alcance nacional del Centro Local Sucre. Este será el nuevo sitio del centro local: no mostrar enlaces hacia las versiones originales en Sobre Nosotros. La visión y la historia se amplían con details/summary, sin lógica adicional.
 - src/RoutePages.jsx contiene la vista de secciones pendientes y la página no encontrada.
 - Usar Link/NavLink de React Router para navegación interna. Mantener enlaces externos como elementos a.
 - Inicio, Sobre Nosotros, Directorio y Autoridades y Organigrama son las páginas con contenido propio. Las demás rutas muestran Próximamente; esto no equivale a módulos implementados.
